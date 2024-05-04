@@ -1,4 +1,4 @@
-# Core Spring and Spring Boot Lab Projects
+# Core Spring and Spring Boot Projects
 
 Labs for the Core Spring and Spring Boot courses
 
